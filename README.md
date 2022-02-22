@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adoberst
 - 👀 I’m interested in ... data vizulization, limnology
 - 🌱 I’m currently learning ... R, python
-- 💞️ I’m looking to collaborate on ... projects that require data vizualization on topics surroundingatmospheric and oceanic sciences
+- 💞️ I’m looking to collaborate on ... projects that require data vizualization on topics surrounding atmospheric and freshwater sciences
 - 📫 How to reach me ... aliciadoberstein@gmail.com
 
 <!---
