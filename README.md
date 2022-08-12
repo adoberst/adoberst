@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adoberst
-- 👀 I’m interested in data visualization for topics around freshwater sience
+- 👀 I’m interested in use data science and visualization tools to communicate and make decisions on scientific information
 - 🌱 I’m currently learning R and python (and general programming foundations)
-- 💞️ I’m looking to collaborate on anything surrounding environmental topics! I have a keen interest in legacy and emerging contaminants
+- 💞️ I’m looking to collaborate on any data visualization projects!
 - 📫 How to reach me - aliciadoberstein@gmail.com
 
 <!---
